@@ -5,8 +5,8 @@
   <img align="center" alt="lima-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="lima-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lima-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="lima-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="lima-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/883529300274479127/1105541474596171877/download20230502140618.png?width=427&height=427">
+  <img align="center" alt="lima-Python" height="30" width="40" 
+
 </div>
   
   ##
