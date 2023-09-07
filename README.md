@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./limajunio.gif" />
+  <img src="./limajunio2.gif" />
 </p>
 
 <p align="center">
