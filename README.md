@@ -3,7 +3,7 @@
 
 ## 👋About Me:
 
-- 💻 Currently, I'm delving into the data field, honing my skills in Python for data analysis and manipulation, along with exploring other related technologies.<br>- 🌱 Solid knowledge in SQL for querying and manipulating relational databases.<br>- 🎓 Pursuing a degree in Analysis and Development of Systems and Data Management at @UFPI.<br>- 💬  Feel free to ask me about anything. I am always happy to learn more.<br>- 📫 You can reach me via email at francisco.antonio@ufpi.edu.br<br><br>
+-💻 Currently, I'm delving into the data field, honing my skills in Python for data analysis and manipulation, along with exploring other related technologies.<br>- 🌱 Solid knowledge in SQL for querying and manipulating relational databases.<br>- 🎓 Pursuing a degree in Analysis and Development of Systems and Data Management at @UFPI.<br>- 💬  Feel free to ask me about anything. I am always happy to learn more.<br>- 📫 You can reach me via email at francisco.antonio@ufpi.edu.br<br><br>
 [![](https://visitcount.itsvg.in/api?id=limajunior1&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ## ⚙Tech Stack:
